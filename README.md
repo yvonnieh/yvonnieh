@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @yvonnieh
+- 👋 Hi, I’m Yvonne studying Cognitive Science @UTD
 - 👀 I’m interested in UI/UX Design and Frontend
-- 🌱 I’m currently studying at UTD
 - 📫 How to reach me: yxh180058@utdallas.edu
