@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Yvonne studying Cognitive Science @UTD
-- 👀 I’m interested in UI/UX Design and Frontend
+- 👋 Hi, I’m Yvonne, a UX designer
 - 📫 How to reach me: yvonnexhsiao@gmail.com
